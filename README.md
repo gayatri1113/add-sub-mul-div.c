@@ -16,4 +16,4 @@ printf("\nsubtraction=%d",sub);
 printf("\nmultiplication=%d",mul);
 printf("\ndivision=%d",div);
 return 0;
-}/
+}
